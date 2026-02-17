@@ -24,4 +24,4 @@ I specialize in designing backend systems that are reliable, fault-tolerant, and
 ## Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/dpkkshk
-- Medium: (add your Medium link here once ready)
+- Medium: https://medium.com/@deepkaushik1996
