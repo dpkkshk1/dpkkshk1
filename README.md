@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Deepak Kaushik 👋
 
-<!--
-**dpkkshk1/dpkkshk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer with 7+ years of experience building scalable, reliable, and production-grade backend systems.
 
-Here are some ideas to get you started:
+## Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java, Spring Boot
+- Distributed Systems and Event-driven Architecture
+- FIX Protocol and Trading Systems
+- Apache Kafka, PostgreSQL, Redis
+- AWS (EC2, S3, IAM)
+- Microservices and REST APIs
+
+## Professional Focus
+
+I specialize in designing backend systems that are reliable, fault-tolerant, and production-ready, particularly in financial systems and distributed architectures.
+
+## Currently Working On
+
+- Backend system architecture improvements
+- Distributed systems reliability patterns
+- Building production-grade backend projects
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/dpkkshk
+- Medium: (add your Medium link here once ready)
